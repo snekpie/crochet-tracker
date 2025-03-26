@@ -1,0 +1,2 @@
+R1: pink [sc, sc, sc] yellow [sc, sc, sc]
+R2: red [sc, sc, sc] orange [sc, sc, sc]
