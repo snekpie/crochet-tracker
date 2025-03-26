@@ -64,22 +64,4 @@ Suggestions, issues, and PRs welcome! Feel free to fork and customize for your o
 
 ---
 
-## License
-
-MIT License
-```
-
----
-
-### ✅ To use it:
-1. Create a file in your repo: `README.md`
-2. Paste the content above
-3. Commit and push:
-```bash
-git add README.md
-git commit -m "Add README with project overview"
-git push origin main
-```
-
----
 
