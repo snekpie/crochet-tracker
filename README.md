@@ -61,11 +61,6 @@ crochet-tracker/
 
 Suggestions, issues, and PRs welcome! Feel free to fork and customize for your own crochet projects 🎨🪡
 
----
-
-## 📸 Example Output
-
-<img src="examples/pixelated_pattern.png" width="600">
 
 ---
 
@@ -88,4 +83,3 @@ git push origin main
 
 ---
 
-Want me to generate a simple `.gitignore` too (e.g., to ignore `.DS_Store`, `.pyc`, or `.venv`)?
